@@ -1,0 +1,36 @@
+.matter-container{
+    height: 100vh;
+    color: grey;
+}
+.data-items{
+   display: grid;
+   grid-template-columns: repeat(2, 350px);
+   justify-content: center;
+   align-items: center;
+   border: 2px solid grey;
+   padding: 0 20px;
+   margin-top: 20px;
+   border-radius: 20px;
+}
+.data-matter{
+    margin-top: 4rem;
+    display: grid;
+    grid-template-columns: auto;
+    justify-content: center;
+}
+.btn{
+    margin-bottom: 22px;
+    width: 30%;
+    margin-left: 240px;
+}
+.emergency{
+    margin-top: 2rem;
+}
+.btn1{
+    border: none;
+    background-color: rgb(201, 62, 62);
+    transition: .2s ease-in-out;
+}
+.btn1:hover{
+    background: rgba(255, 0, 0, 0.767);
+}

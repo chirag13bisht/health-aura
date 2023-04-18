@@ -1,0 +1,17 @@
+.register-container{
+    height: 60vh;
+    color: grey;
+
+}
+.register-data{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 3rem;
+}
+.box{
+    border: 2px solid white;
+    padding: 4rem 4rem;
+    margin: 0 3rem;
+}

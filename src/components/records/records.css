@@ -1,0 +1,18 @@
+.record{
+    height: 100vh;
+    /* margin-top: 6rem; */
+}
+.patanhi{
+    margin-top: 6rem;
+}
+.record-data{
+   display: grid;
+   grid-template-columns: auto;
+   justify-content: center;
+}
+.title1{
+    margin-top: 6rem;
+}
+.record-data{
+    margin-top: 3rem;
+}
